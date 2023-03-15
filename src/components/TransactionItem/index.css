@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.delete-button {
+  background-color: transparent;
+  border-style: none;
+}
+.delete-button > img {
+  width: 40%;
+}

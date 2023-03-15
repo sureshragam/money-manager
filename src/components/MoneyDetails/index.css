@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.money-detail {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  width: 25%;
+  height: 90%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 20px;
+  border-radius: 15px;
+}
+.amount-tab-col1 {
+  margin-right: 20px;
+}
+.amount-tab-col1 > img {
+  width: 100px;
+}
+.green {
+  background-color: #ecfccb;
+  border-color: #84cc16;
+}
+.blue {
+  background-color: #cffafe;
+  border-color: #06b6d4;
+}
+.violet {
+  background-color: #ede9fe;
+  border-color: #7c3aed;
+}
